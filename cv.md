@@ -9,7 +9,7 @@
 
 
 ## About Me
-### I had graduated Teach Me Skills JS Front end courses in october 2022. During thiscourse gained experience in creating adaptive and cross-browser applications and websites. My self education based on resources like learn.javascript, coursehunter and other. I also improve my English skills.
+I had graduated Teach Me Skills JS Front end courses in october 2022. During thiscourse gained experience in creating adaptive and cross-browser applications and websites. My self education based on resources like learn.javascript, coursehunter and other. I also improve my English skills.
 
 ## Hard Skills
 
