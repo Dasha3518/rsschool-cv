@@ -33,3 +33,6 @@ console.log(letterRepeat);
 
 + Courses: [TeachMeSlills "Front End developer"](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk)
 + University: Gomel State University named after F. Skaryna
+
+## English
+### B2
